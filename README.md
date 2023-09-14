@@ -8,4 +8,4 @@ allowsyou to edit and save the details.
 
 
 You can view the demo on appetize link :
-https://appetize.io/app/h4ky24qjyb7jiwz46nq3zbhyh4?device=pixel4&osVersion=11.0&scale=75
+https://appetize.io/app/dcdw2b6zam34uaebsjbwpkf27u?device=pixel4&osVersion=11.0&scale=75
